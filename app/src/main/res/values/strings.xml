@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My_cinema</string>
+    <string name="menu_name_1">Обзор фильмов</string>
+    <string name="menu_name_2">Избранное</string>
+</resources>

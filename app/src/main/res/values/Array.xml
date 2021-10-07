@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cinema_class">
+        <item>Комедия</item>
+        <item>Драмма</item>
+        <item>Триллер</item>
+        <item>Хоррор</item>
+        <item>Научное</item>
+    </string-array>
+</resources>
